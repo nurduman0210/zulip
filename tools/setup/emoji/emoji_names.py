@@ -182,7 +182,7 @@ EMOJI_NAME_MAPS = {
     '270a': {'canonical_name': 'fist', 'aliases': ['power']},
     '1f91b': {'canonical_name': 'left_fist', 'aliases': []},
     '1f91c': {'canonical_name': 'right_fist', 'aliases': []},
-    '1f91e': {'canonical_name': 'fingers_crossed', 'aliases': []},
+    '1f91e': {'canonical_name': 'fingers_crossed', 'aliases': ['hope']},
     # seems to be mostly used as peace on twitter
     '270c': {'canonical_name': 'peace_sign', 'aliases': ['victory']},
     # https://emojipedia.org/sign-of-the-horns/
